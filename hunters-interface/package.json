@@ -5,6 +5,7 @@
   "dependencies": {
     "@adobe/react-spectrum": "^3.43.0",
     "@fontsource/inter": "^5.2.6",
+    "@hookform/resolvers": "^5.2.0",
     "@spectrum-css/typography": "^8.1.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -14,8 +15,13 @@
     "lucide-react": "^0.525.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-hook-form": "^7.61.1",
+    "react-hot-toast": "^2.5.2",
+    "react-input-mask": "^2.0.4",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-scroll": "^1.9.3",
+    "web-vitals": "^2.1.4",
+    "zod": "^4.0.10"
   },
   "scripts": {
     "start": "react-scripts start",
